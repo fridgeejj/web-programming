@@ -1,1 +1,1 @@
-# https://fridgeejj.github.io/lab2/cv
+# https://github.com/fridgeejj/web-programming/blob/lab2/cv.md
